@@ -8,6 +8,9 @@ fetch & merge a
 A  
 B  
 C  
-D
+D  
 E  
 F  
+G  
+H  
+I  
