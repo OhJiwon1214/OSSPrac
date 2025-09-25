@@ -3,7 +3,7 @@
 - OSS Practice with Github
 - Date : 2025. 9. 23. 1500
 - Subject : Github
-  ## prac5
-fetch & merge a
-A
+## prac5
+fetch & merge a  
+A  
 B
