@@ -6,4 +6,5 @@
 ## prac5
 fetch & merge a  
 A  
-B
+B  
+C
