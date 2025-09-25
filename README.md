@@ -7,4 +7,5 @@
 fetch & merge a  
 A  
 B  
-C
+C  
+D
